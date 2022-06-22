@@ -61,7 +61,7 @@ h2{
 }
 #nomes{
     height: 110px;
-    max-width: 300px;
+    max-width: 350px;
     padding: 0.5em;
     padding-left: 1em;
     font-size: 1.1em;
@@ -78,5 +78,6 @@ h2{
 }
 #nomes > div > div{
     display: inline-block;
+    padding-left: 1em;
 }
 
